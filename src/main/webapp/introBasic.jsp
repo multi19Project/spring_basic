@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-이건 열리겠지~~~?!!
+안녕하세요 저희 배포 수업 중입니다!!
+다들 잘 따라오고 계신가요?
 </body>
 </html>
